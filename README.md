@@ -19,4 +19,4 @@ Check the Result:
 Compare the rolled number with your selected number to see if you guessed correctly. 🏆
 🚀 Live Demo
 Check out the live demo of the game and start playing now! 👇
-Play RollTheDice Now! (rollthe-dicee.netlify.app)
+Play RollTheDice Now! https://rollthe-dicee.netlify.app
